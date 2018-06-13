@@ -1,0 +1,17 @@
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\bin\Debug\cure_clustering.exe.config
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\bin\Debug\cure_clustering.exe.manifest
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\bin\Debug\cure_clustering.application
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\bin\Debug\cure_clustering.exe
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\bin\Debug\cure_clustering.pdb
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.Welcome.resources
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.Setup.resources
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.Properties.Resources.resources
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.csproj.GenerateResource.Cache
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.exe.manifest
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.application
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.exe
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.pdb
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.CureProperties.resources
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.csprojResolveAssemblyReference.cache
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.PartitioningResults.resources
+E:\Users\Administrator\documents\visual studio 2012\Projects\cure_clustering\cure_clustering\obj\Debug\cure_clustering.Merge.resources
